@@ -54,5 +54,10 @@ My research interest is how computers understand the world, including efficient 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Academic Services (Reviewers)
-- IEEE Transactions on pattern Aanlysis and Machine Intelligence (T-PAMI).
+# 💻 Academic Services
+- Journal Reviewer
+    - IEEE Transactions on Pattern Aanlysis and Machine Intelligence (T-PAMI)
+    - International Journal on Computer Vision (IJCV)
+
+- Conference Reviewer
+    - CVPR 2023
