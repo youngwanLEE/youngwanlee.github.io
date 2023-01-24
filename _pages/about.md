@@ -27,22 +27,28 @@ My research interest is how computers understand the world, including efficient 
 - *2022.02*: &nbsp;🎉🎉 One paper has been accepted at CVPR 2022. 
 
 # 📝 Publications 
+* ### Exploring the role of mean techers in self-supervised masked auto-encoders <br>
+    Internation Conference on Learning Representation (``ICLR``) 2023  <br>
+    **Youngwan Lee***, Jeffrey Ryan Willette*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
+    *:equal contribtion <br>
+    [`paper`](https://openreview.net/forum?id=7sn6Vxp92xV) | [code] <br>
+ 
+ * ### MPViT: Multi-Path Vision Transformer for Dense Prediction <br>
+    Conference on Computer Vision and Pattern Recognition (``CVPR``) 2022  <br>
+    **Youngwan Lee**, Jonghee Kim, Jeffrey Ryan Willette, Sung Ju Hwang <br>
+    [`paper`](https://arxiv.org/abs/2112.11010) | [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+ * ### Localization Uncertainty Estimation for Anchor-Free Object Detection <br>
+    European Conference on Computer Vision Workoshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (``ECCVW``) 2022  <br>
+    **Youngwan Lee**, Joon-Won Hwang, Hyung-Il Kim, Kimin Yun, YongJin Kwon, Yuseok Bae, Sung Ju Hwang <br>
+    [`paper`](https://arxiv.org/abs/2006.15607) <br>
+    
+ * ### Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification <br>
+    IEEE Access 2021  <br>
+    **Youngwan Lee**, Hyung-Il Kim, Kimin Yun, Jinyoung Moon <br>
+    [`paper`](https://arxiv.org/abs/2012.00317) | [![](https://img.shields.io/github/stars/youngwanLEE/VoV3D?style=social&label=Code+Stars)](https://github.com/youngwanLEE/VoV3D) <br>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -50,7 +56,7 @@ My research interest is how computers understand the world, including efficient 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-<!-- # 💬 Invited Talks
+# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
