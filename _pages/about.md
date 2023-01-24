@@ -49,7 +49,7 @@ My research interest is how computers understand the world, including efficient 
     **Youngwan Lee**, Joong-Won Hwang, Hyung-Il Kim, Kimin Yun, YongJin Kwon, Yuseok Bae, Sung Ju Hwang <br>
     [``paper``](https://arxiv.org/abs/2006.15607) <br>
     
- * ### Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification <br>
+ * ## Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification <br>
     IEEE Access 2021  <br>
     **Youngwan Lee**, Hyung-Il Kim, Kimin Yun, Jinyoung Moon <br>
     [``paper``](https://arxiv.org/abs/2012.00317) | [![](https://img.shields.io/github/stars/youngwanLEE/VoV3D?style=social&label=Code+Stars)](https://github.com/youngwanLEE/VoV3D) <br>
