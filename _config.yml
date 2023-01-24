@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Youngwan Lee"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "https://dl.dropbox.com/s/e1wvpda02268p5r/2021_chungju.JPG?dl=1"
   bio              : "Researcher at ETRI & Ph.D student at KAIST"
   location         : "Daejeon, South Korea"
   employer         :
