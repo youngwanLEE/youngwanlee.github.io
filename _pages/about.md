@@ -29,7 +29,7 @@ My research interest is how computers understand the world, including efficient 
 # 📝 Publications 
 * ## Exploring the Role of Mean Techers in Self-supervised Masked Auto-Encoders <br>
     Internation Conference on Learning Representation (``ICLR``) 2023  <br>
-    **Youngwan Lee***, Jeffrey Ryan Willette*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
+    **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
     *:equal contribtion <br>
     [``paper``](https://openreview.net/forum?id=7sn6Vxp92xV) <br>
 
@@ -61,7 +61,7 @@ My research interest is how computers understand the world, including efficient 
 
  * ## An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection <br>
     Conference on Computer Vision and Pattern Recognition Workshop (``CVPRW``) 2022  <br>
-    **Youngwan Lee***, Joong-Won Hwang*, Yuseok Bae, Jongyoul Park <br>
+    **Youngwan Lee**\*, Joong-Won Hwang\*, Yuseok Bae, Jongyoul Park <br>
     *:equal contribtion <br>
     [``paper``](https://arxiv.org/abs/1904.09730) | [![](https://img.shields.io/github/stars/youngwanLEE/vovnet-detectron2?style=social&label=Code+Stars)](https://github.com/youngwanLEE/vovnet-detectron2) <br>
 
