@@ -27,7 +27,7 @@ My research interest is how computers understand the world, including efficient 
 - *2022.02*: &nbsp;🎉🎉 One paper has been accepted at CVPR 2022. 
 
 # 📝 Publications 
-* ## Exploring the Role of Mean Techers in Self-supervised Masked Auto-Encoders <br>
+* ## Exploring the Role of Mean Teachers in Self-supervised Masked Auto-Encoders <br>
     Internation Conference on Learning Representation (``ICLR``) 2023  <br>
     **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
     *:equal contribtion <br>
@@ -81,7 +81,11 @@ My research interest is how computers understand the world, including efficient 
 # 💻 Academic Services
 - Journal Reviewer
     - IEEE Transactions on Pattern Aanlysis and Machine Intelligence (T-PAMI)
+    - IEEE Transactions on Image Processing (T-IP)
+    - IEEE Transactions on Intelligent Transportation System (T-ITP)
+    - IEEE Transactions on Vehicular Technology (T-VT)
     - International Journal on Computer Vision (IJCV)
 
 - Conference Reviewer
     - CVPR 2023
+    - WACV 2021
