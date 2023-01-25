@@ -80,9 +80,9 @@ My research interest is how computers understand the world, including efficient 
 
 # 💻 Academic Services
 - Journal Reviewer
-    - IEEE Transactions on Pattern Aanlysis and Machine Intelligence (T-PAMI)
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
     - IEEE Transactions on Image Processing (T-IP)
-    - IEEE Transactions on Intelligent Transportation System (T-ITP)
+    - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
     - IEEE Transactions on Vehicular Technology (T-VT)
     - International Journal on Computer Vision (IJCV)
 
