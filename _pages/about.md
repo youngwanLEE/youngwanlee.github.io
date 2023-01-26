@@ -84,6 +84,7 @@ My research interest is how computers understand the world, including efficient 
     - IEEE Transactions on Image Processing (T-IP)
     - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
     - IEEE Transactions on Vehicular Technology (T-VT)
+    - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
     - International Journal on Computer Vision (IJCV)
 
 - Conference Reviewer
