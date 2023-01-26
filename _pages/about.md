@@ -28,42 +28,42 @@ My research interest is how computers understand the world, including efficient 
 
 # 📚 Publications 
 * ## Exploring the Role of Mean Teachers in Self-supervised Masked Auto-Encoders <br>
-    Internation Conference on Learning Representation (``ICLR``) 2023  <br>
+    Internation Conference on Learning Representation (<span style="color:darkred">ICLR</span>) 2023  <br>
     **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
     *:equal contribtion <br>
-    [``paper``](https://openreview.net/forum?id=7sn6Vxp92xV) <br>
+    [[paper]](https://openreview.net/forum?id=7sn6Vxp92xV) <br>
 
  * ## Sparse Token Transformer with Attention Back Tracking <br>
-    Internation Conference on Learning Representation (``ICLR``) 2023  <br>
+    Internation Conference on Learning Representation (<span style="color:darkred">ICLR</span>) 2023  <br>
     Heejun Lee, Minki Kang, **Youngwan Lee**, Sung Ju Hwang <br>
-    [``paper``](https://openreview.net/forum?id=VV0hSE8AxCw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) <br>
+    [[paper]](https://openreview.net/forum?id=VV0hSE8AxCw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) <br>
  
  
  * ## MPViT: Multi-Path Vision Transformer for Dense Prediction <br>
-    Conference on Computer Vision and Pattern Recognition (``CVPR``) 2022  <br>
+    Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">CVPR</span>) 2022  <br>
     **Youngwan Lee**, Jonghee Kim, Jeffrey Ryan Willette, Sung Ju Hwang <br>
-    [``paper``](https://arxiv.org/abs/2112.11010) | [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
+    [[paper]](https://arxiv.org/abs/2112.11010) | [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
 
  * ## Localization Uncertainty Estimation for Anchor-Free Object Detection <br>
-    European Conference on Computer Vision Workoshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (``ECCVW``) 2022  <br>
+    European Conference on Computer Vision Workoshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (<span style="color:darkred">ECCVW</span>) 2022  <br>
     **Youngwan Lee**, Joong-Won Hwang, Hyung-Il Kim, Kimin Yun, YongJin Kwon, Yuseok Bae, Sung Ju Hwang <br>
-    [``paper``](https://arxiv.org/abs/2006.15607) <br>
+    [[paper]](https://arxiv.org/abs/2006.15607) <br>
     
  * ## Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification <br>
     IEEE Access 2021  <br>
     **Youngwan Lee**, Hyung-Il Kim, Kimin Yun, Jinyoung Moon <br>
-    [``paper``](https://arxiv.org/abs/2012.00317) | [![](https://img.shields.io/github/stars/youngwanLEE/VoV3D?style=social&label=Code+Stars)](https://github.com/youngwanLEE/VoV3D) <br>
+    [[paper]](https://arxiv.org/abs/2012.00317) | [![](https://img.shields.io/github/stars/youngwanLEE/VoV3D?style=social&label=Code+Stars)](https://github.com/youngwanLEE/VoV3D) <br>
 
  * ## CenterMask: Real-Time Anchor-Free Instance Segmentation <br>
-    Conference on Computer Vision and Pattern Recognition (``CVPR``) 2020 <br>
+    Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">CVPR</span>) 2020 <br>
     **Youngwan Lee**, Jongyoul Park <br>
-    [``paper``](https://arxiv.org/abs/1911.06667) | [![](https://img.shields.io/github/stars/youngwanLEE/CenterMask?style=social&label=Code1+Stars)](https://github.com/youngwanLEE/CenterMask)[![](https://img.shields.io/github/stars/youngwanLEE/centermask2?style=social&label=detectron2+Stars)](https://github.com/youngwanLEE/centermask2) <br>
+    [[paper]](https://arxiv.org/abs/1911.06667) | [![](https://img.shields.io/github/stars/youngwanLEE/CenterMask?style=social&label=Code1+Stars)](https://github.com/youngwanLEE/CenterMask)[![](https://img.shields.io/github/stars/youngwanLEE/centermask2?style=social&label=detectron2+Stars)](https://github.com/youngwanLEE/centermask2) <br>
 
  * ## An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection <br>
-    Conference on Computer Vision and Pattern Recognition Workshop (``CVPRW``) 2019  <br>
+    Conference on Computer Vision and Pattern Recognition Workshop (<span style="color:darkred">CVPRW</span>) 2019  <br>
     **Youngwan Lee**\*, Joong-Won Hwang\*, Yuseok Bae, Jongyoul Park <br>
     *:equal contribtion <br>
-    [``paper``](https://arxiv.org/abs/1904.09730) | [![](https://img.shields.io/github/stars/youngwanLEE/vovnet-detectron2?style=social&label=Code+Stars)](https://github.com/youngwanLEE/vovnet-detectron2) <br>
+    [[paper]](https://arxiv.org/abs/1904.09730) | [![](https://img.shields.io/github/stars/youngwanLEE/vovnet-detectron2?style=social&label=Code+Stars)](https://github.com/youngwanLEE/vovnet-detectron2) <br>
 
 
 <!-- # 🎖 Honors and Awards
