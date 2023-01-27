@@ -55,6 +55,16 @@ My research interest is how computers understand the world, including efficient 
     **Youngwan Lee**, Hyung-Il Kim, Kimin Yun, Jinyoung Moon <br>
     [[paper]](https://arxiv.org/abs/2012.00317) | [![](https://img.shields.io/github/stars/youngwanLEE/VoV3D?style=social&label=Code+Stars)](https://github.com/youngwanLEE/VoV3D) <br>
 
+ * ## Adversarial training with stochastic weight average <br>
+    International Conference on Image Processing (<span style="color:darkred">ICIP</span>)   <br>
+    Joong-Won Hwang, **Youngwan Lee**, Seongchan Oh, Yuseok Bae<br>
+    [[paper]](https://ieeexplore.ieee.org/abstract/document/9506548) <br>
+
+ * ## Anti-Litter Surveillance based on Person Understanding via Multi-Task Learning <br>
+    The British Machine Vision Conference (<span style="color:darkred">BMVC</span>)   <br>
+    Kangmin Bae, Kimin Yun, Hyung-Il Kim, **Youngwan Lee**, Jongyoul Park <br>
+    [[paper]](https://www.bmvc2020-conference.com/assets/papers/0279.pdf) <br>
+
  * ## CenterMask: Real-Time Anchor-Free Instance Segmentation <br>
     Conference on Computer Vision and Pattern Recognition (<span style="color:darkred">CVPR</span>) 2020 <br>
     **Youngwan Lee**, Jongyoul Park <br>
