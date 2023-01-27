@@ -66,27 +66,32 @@ My research interest is how computers understand the world, including efficient 
     [[paper]](https://arxiv.org/abs/1904.09730) | [![](https://img.shields.io/github/stars/youngwanLEE/vovnet-detectron2?style=social&label=Code+Stars)](https://github.com/youngwanLEE/vovnet-detectron2) <br>
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *2022.12* Ministerial Citation (장관표창), Minister of Science and ICT, South Korea  
+- *2022.04* Best Lecturer Award, ETRI 
+- *2022.04* Best Paper Award, ETRI 
+- *2017.06* 2nd rank in ImageNet Challenge (Detection task, Team [DeepView](https://image-net.org/challenges/LSVRC/2017/results)) 
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Academic Services
-- Journal Reviewer
-    - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
-    - IEEE Transactions on Image Processing (T-IP)
-    - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
-    - IEEE Transactions on Vehicular Technology (T-VT)
-    - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
-    - International Journal on Computer Vision (IJCV)
+- Lecturer
+   - AI Academy at ETRI
+- Reviewer
+   - Journal
+      - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+      - IEEE Transactions on Image Processing (T-IP)
+      - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+      - IEEE Transactions on Vehicular Technology (T-VT)
+      - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
+      - International Journal on Computer Vision (IJCV)
 
-- Conference Reviewer
-    - CVPR 2023
-    - WACV 2021
+   - Conference
+      - CVPR 2023
+      - WACV 2021
