@@ -72,7 +72,7 @@ My research interest is how computers understand the world, including efficient 
 
  * ## An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection <br>
     Conference on Computer Vision and Pattern Recognition Workshop (<span style="color:darkred">CVPRW</span>) 2019  <br>
-    **Youngwan Lee**\*, Joong-Won Hwang\*, Yuseok Bae, Jongyoul Park <br>
+    **Youngwan Lee**\*, Joong-Won Hwang\*, Sangrok Lee, Yuseok Bae, Jongyoul Park <br>
     *:equal contribtion <br>
     [[paper]](https://arxiv.org/abs/1904.09730) | [![](https://img.shields.io/github/stars/youngwanLEE/vovnet-detectron2?style=social&label=Code+Stars)](https://github.com/youngwanLEE/vovnet-detectron2) <br>
 
