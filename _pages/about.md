@@ -93,7 +93,9 @@ My research interest is how computers understand the world, including efficient 
 
 # 💻 Academic Services
 - Lecturer
-   - AI Academy at ETRI
+   - 2020-Present, AI Academy at ETRI
+   - 2022-2023, Hallym University Medical Center
+   - 2022, Korea Atomic Energy Research Institute
 - Reviewer
    - Journal
       - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
