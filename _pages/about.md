@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Youngwan**, a _researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri) and _Ph.D student_ in Graduate school of [AI](https://gsai.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/), where I'm advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/) in the [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab.
+I'm **Youngwan**, a _senior researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri) and _Ph.D student_ in Graduate school of [AI](https://gsai.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/), where I'm advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/) in the [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab.
 My research interest is how computers understand the world, including efficient 2D/3D neural network design, object detection, instance segmentation, semantic segmentation, and video classification 🖥️🌏. Recently, I have focused on Vision Transformer architecture and self-supervised learning. 
 
 
