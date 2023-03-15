@@ -32,7 +32,7 @@ My research interest is how computers understand the world, including efficient 
     Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2023  <br>
     **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
     *:equal contribtion <br>
-    [[paper]](https://openreview.net/forum?id=7sn6Vxp92xV) <br>
+    [[paper]](https://openreview.net/forum?id=7sn6Vxp92xV) | [![](https://img.shields.io/github/stars/youngwanLEE/rc-mae?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
 
  * ## Sparse Token Transformer with Attention Back Tracking <br>
     Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2023  <br>
