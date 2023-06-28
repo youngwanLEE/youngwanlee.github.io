@@ -43,7 +43,7 @@ My research interest is how computers understand the world, including efficient 
  * ## MPViT: Multi-Path Vision Transformer for Dense Prediction <br>
     Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2022  <br>
     **Youngwan Lee**, Jonghee Kim, Jeffrey Ryan Willette, Sung Ju Hwang <br>
-    [[paper]](https://arxiv.org/abs/2112.11010) | [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
+    [[paper]](https://arxiv.org/abs/2112.11010)[[poster]](https://www.dropbox.com/s/56tdh4fmxkm04u9/%5Bfinal%5D%5Bmpvit_poster%5D.pdf) [[slide]](https://www.dropbox.com/s/1jclnrdlex07yn6/mpvit_presentation.pdf)| [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
 
  * ## Localization Uncertainty Estimation for Anchor-Free Object Detection <br>
     European Conference on Computer Vision Workoshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (<span style="color:darkred">**ECCVW**</span>) 2022  <br>
