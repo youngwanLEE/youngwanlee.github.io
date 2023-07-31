@@ -27,7 +27,7 @@ My research interest is how computers understand the world, including efficient 
 - *2022.02*: &nbsp;🎉🎉 One paper has been accepted at CVPR 2022. 
 
 # 📚 Publications 
-[[full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)]
+[Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)]
 * ## Exploring the Role of Mean Teachers in Self-supervised Masked Auto-Encoders <br>
     Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2023  <br>
     **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
