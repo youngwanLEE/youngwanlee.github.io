@@ -48,7 +48,7 @@ My research interest is how computers understand the world, including efficient 
  * ## Localization Uncertainty Estimation for Anchor-Free Object Detection <br>
     European Conference on Computer Vision Workoshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (<span style="color:darkred">**ECCVW**</span>) 2022  <br>
     **Youngwan Lee**, Joong-Won Hwang, Hyung-Il Kim, Kimin Yun, YongJin Kwon, Yuseok Bae, Sung Ju Hwang <br>
-    [[paper]](https://arxiv.org/abs/2006.15607)[[poster]](https://www.dropbox.com/s/rxwgveiy7l0isnh/poster.pdf)[[slide]](https://www.dropbox.com/s/ijp3nofi57jbhbr/uad_presentation.pdf) <br>
+    [[paper]](https://arxiv.org/abs/2006.15607)[[poster]](https://www.dropbox.com/s/rxwgveiy7l0isnh/poster.pdf)[[slide]](https://www.dropbox.com/s/ijp3nofi57jbhbr/uad_presentation.pdf)[[code]](https://github.com/youngwanLEE/UAD) <br>
     
  * ## Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification <br>
     IEEE Access 2021  <br>
