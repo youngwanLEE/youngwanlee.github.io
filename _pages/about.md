@@ -28,6 +28,14 @@ My research interest is how computers understand the world, including efficient 
 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)
+
+
+
+* ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
+   Conference on Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2023  Workshop on [Self-Supervised Learning - Theory and Practice](https://sslneurips23.github.io/index.html)   <br>
+    **Youngwan Lee**, Jeffrey Ryan Willette, Jonghee Kim, Sung Ju Hwang <br>
+    [[paper]](https://sslneurips23.github.io/paper_pdfs/paper_23.pdf)<br>
+
 * ## Exploring the Role of Mean Teachers in Self-supervised Masked Auto-Encoders <br>
     Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2023  <br>
     **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
@@ -46,7 +54,7 @@ My research interest is how computers understand the world, including efficient 
     [[paper]](https://arxiv.org/abs/2112.11010)[[poster]](https://www.dropbox.com/s/56tdh4fmxkm04u9/%5Bfinal%5D%5Bmpvit_poster%5D.pdf) [[slide]](https://www.dropbox.com/s/1jclnrdlex07yn6/mpvit_presentation.pdf)| [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
 
  * ## Localization Uncertainty Estimation for Anchor-Free Object Detection <br>
-    European Conference on Computer Vision Workoshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (<span style="color:darkred">**ECCVW**</span>) 2022  <br>
+    European Conference on Computer Vision Workshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (<span style="color:darkred">**ECCVW**</span>) 2022  <br>
     **Youngwan Lee**, Joong-Won Hwang, Hyung-Il Kim, Kimin Yun, YongJin Kwon, Yuseok Bae, Sung Ju Hwang <br>
     [[paper]](https://arxiv.org/abs/2006.15607)[[poster]](https://www.dropbox.com/s/rxwgveiy7l0isnh/poster.pdf)[[slide]](https://www.dropbox.com/s/ijp3nofi57jbhbr/uad_presentation.pdf)[![](https://img.shields.io/github/stars/youngwanLEE/UAD?style=social&label=Code+Stars)](https://github.com/youngwanLEE/UAD) <br>
     
