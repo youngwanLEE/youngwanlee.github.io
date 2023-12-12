@@ -34,7 +34,7 @@ My research interest is how computers understand the world, including efficient 
 * ## KOALA:Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis  <br>
     **Youngwan Lee**, Kwangyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
    <span style="color:darkred">**Arxiv**</span> 2023 <br>
-    [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
+    [[`Project page`]](https://youngwanlee.github.io/KOALA/)[[`paper`]](https://arxiv.org/abs/2312.04005)[[`code`]](https://github.com/youngwanLEE/sdxl-koala)<br>
 
 
 * ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
