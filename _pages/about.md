@@ -36,6 +36,10 @@ My research interest is how computers understand the world, including efficient 
    <span style="color:darkred">**Arxiv**</span> 2023 <br>
     [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
 
+* ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
+    Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
+   <span style="color:darkred">**Arxiv**</span> 2023 <br>
+   [[paper]](https://arxiv.org/abs/2211.10636)
 
 * ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
     **Youngwan Lee**, Jeffrey Ryan Willette, Jonghee Kim, Sung Ju Hwang <br>
