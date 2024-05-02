@@ -23,7 +23,7 @@ My research interest is how computers understand the world, including efficient 
 
 
 # 🎉 News
-- *2024.05*: &nbsp;🎉🎉 EVEREST have been accepted at ICML 2024. 
+- *2024.05*: &nbsp;🎉🎉 EVEREST has been accepted at ICML 2024. 
 - *2023.12*: &nbsp;🎉🎉 KOALA, a fast Text-to-Image sythesis model, has been released. 
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2023. 
 - *2022.02*: &nbsp;🎉🎉 One paper has been accepted at CVPR 2022. 
