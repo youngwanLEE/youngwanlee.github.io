@@ -23,6 +23,7 @@ My research interest is how computers understand the world, including efficient 
 
 
 # 🎉 News
+- *2024.05*: &nbsp;🎉🎉 EVEREST have been accepted at ICML 2024. 
 - *2023.12*: &nbsp;🎉🎉 KOALA, a fast Text-to-Image sythesis model, has been released. 
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2023. 
 - *2022.02*: &nbsp;🎉🎉 One paper has been accepted at CVPR 2022. 
@@ -30,16 +31,15 @@ My research interest is how computers understand the world, including efficient 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)
 
+* ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
+    Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
+   <span style="color:darkred">**ICML**</span> 2024 <br>
+   [[paper]](https://arxiv.org/abs/2211.10636)
 
 * ## KOALA:Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis  <br>
     **Youngwan Lee**, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
    <span style="color:darkred">**Arxiv**</span> 2023 <br>
     [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
-
-* ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
-    Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
-   <span style="color:darkred">**Arxiv**</span> 2023 <br>
-   [[paper]](https://arxiv.org/abs/2211.10636)
 
 * ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
     **Youngwan Lee**, Jeffrey Ryan Willette, Jonghee Kim, Sung Ju Hwang <br>
@@ -96,6 +96,7 @@ My research interest is how computers understand the world, including efficient 
 
 
 # 🎖 Honors and Awards
+- *2024.04* Best Paper Award, ETRI 
 - *2022.12* Ministerial Citation (장관표창), Minister of Science and ICT, South Korea  
 - *2022.04* Best Lecturer Award, ETRI 
 - *2022.04* Best Paper Award, ETRI 
