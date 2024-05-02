@@ -33,7 +33,7 @@ My research interest is how computers understand the world, including efficient 
 
 * ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
     Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
-   <span style="color:darkred">**ICML**</span> 2024 <br>
+   Internation Conference on Machine Learning <span style="color:darkred">**ICML**</span> 2024 <br>
    [[paper]](https://arxiv.org/abs/2211.10636)
 
 * ## KOALA:Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis  <br>
