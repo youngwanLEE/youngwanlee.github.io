@@ -33,6 +33,7 @@ My research interest is how computers understand the world, including efficient 
 
 * ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
     Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
+    *:equal contribtion <br>
    Internation Conference on Machine Learning (<span style="color:darkred">**ICML**</span>) 2024 <br>
    [[paper]](https://arxiv.org/abs/2211.10636)
 
