@@ -130,7 +130,7 @@ My research interest is how computers understand the world, including efficient 
       - ICCV 2023
       - ICLR 2024
       - ICML 2023 2024
-      - NeurIPS 2023
+      - NeurIPS 2023 2024
       - ECCV 2024
       - ICIP 2023
       - WACV 2021 2024
