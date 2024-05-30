@@ -45,7 +45,7 @@ My research interest is how computers understand the world, including efficient 
 * ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
     **Youngwan Lee**, Jeffrey Ryan Willette, Jonghee Kim, Sung Ju Hwang <br>
    Conference on Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2023  Workshop on [Self-Supervised Learning - Theory and Practice](https://sslneurips23.github.io/index.html)   <br>
-    [[paper]](https://sslneurips23.github.io/paper_pdfs/paper_23.pdf)<br>
+    [[paper]](https://arxiv.org/abs/2405.18042)<br>
 
 * ## Exploring the Role of Mean Teachers in Self-supervised Masked Auto-Encoders <br>
     **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
