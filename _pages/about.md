@@ -37,7 +37,7 @@ My research interest is how computers understand the world, including efficient 
    Internation Conference on Machine Learning (<span style="color:darkred">**ICML**</span>) 2024 <br>
    [[paper]](https://arxiv.org/abs/2211.10636)
 
-* ## KOALA:Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis  <br>
+* ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
     **Youngwan Lee**, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
    <span style="color:darkred">**Arxiv**</span> 2023 <br>
     [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
