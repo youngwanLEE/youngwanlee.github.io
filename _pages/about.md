@@ -35,6 +35,7 @@ My research interest is how computers understand the world, including efficient 
     Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
     *:equal contribtion <br>
    Internation Conference on Machine Learning (<span style="color:darkred">**ICML**</span>) 2024 <br>
+   CVPR 2024  Workshop on Transformers for Vision (T4V) (<span style="color:purple">**Spotlight**</span>) <br>
    [[paper]](https://arxiv.org/abs/2211.10636)
 
 * ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
@@ -133,5 +134,6 @@ My research interest is how computers understand the world, including efficient 
       - ICML 2023 2024
       - NeurIPS 2023 2024
       - ECCV 2024
+      - AAAI 2025
       - ICIP 2023
       - WACV 2021 2024
