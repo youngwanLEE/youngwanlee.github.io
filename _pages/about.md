@@ -130,8 +130,8 @@ My research interest is how computers understand the world, including efficient 
 
    - Conference
       - CVPR 2023 2024
-      - ICML 2023 2024
       - NeurIPS 2023 2024
+      - ICML 2023 2024
       - ICLR 2024
       - ICCV 2023
       - ECCV 2024
