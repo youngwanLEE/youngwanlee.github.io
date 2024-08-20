@@ -118,6 +118,7 @@ My research interest is how computers understand the world, including efficient 
    - 2020-present, AI Academy at ETRI
    - 2022-2023, Hallym University Medical Center
    - 2022, Korea Atomic Energy Research Institute
+
 - Reviewer
    - Journal
       - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
@@ -129,11 +130,11 @@ My research interest is how computers understand the world, including efficient 
 
    - Conference
       - CVPR 2023 2024
-      - ICCV 2023
-      - ICLR 2024
       - ICML 2023 2024
       - NeurIPS 2023 2024
+      - ICLR 2024
+      - ICCV 2023
       - ECCV 2024
       - AAAI 2025
-      - ICIP 2023
-      - WACV 2021 2024
+      <!-- - ICIP 2023 -->
+      <!-- - WACV 2021 2024 -->
