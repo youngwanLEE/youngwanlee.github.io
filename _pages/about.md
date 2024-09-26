@@ -23,6 +23,8 @@ My research interest is how computers understand the world, including efficient 
 
 
 # 🎉 News
+- *2024.09*: &nbsp;🎉🎉 KOALA has been accepted at NeurIPS 2024. 
+- *2024.08*: &nbsp;🎉🎉 DiT-Pruner has been accepted at ECCVW 2024. 
 - *2024.05*: &nbsp;🎉🎉 EVEREST has been accepted at ICML 2024. 
 - *2023.12*: &nbsp;🎉🎉 KOALA, a fast Text-to-Image sythesis model, has been released. 
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2023. 
@@ -31,17 +33,22 @@ My research interest is how computers understand the world, including efficient 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)
 
+* ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
+    **Youngwan Lee**, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
+   Conference on Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
+    [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
+
+* ## DiT-Pruner: Pruning Diffusion Transformer Models for Text-to-Image Synthesis Using Human Preference Scores <br>
+    **Youngwan Lee**, Yong-Ju Lee, Sung Ju Hwang <br>
+    European Conference on Computer Vision (<span style="color:darkred">**ECCV**</span>) 2024  Workshop on [Green Foundation Models](https://green-fomo.github.io/ECCV2024/)   <br>
+    <!--[[paper]](https://arxiv.org/abs/2312.04005)<br> -->
+
 * ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
     Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
     *:equal contribtion <br>
    Internation Conference on Machine Learning (<span style="color:darkred">**ICML**</span>) 2024 <br>
    CVPR 2024  Workshop on Transformers for Vision (T4V) (<span style="color:purple">**Spotlight**</span>) <br>
    [[paper]](https://arxiv.org/abs/2211.10636)
-
-* ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
-    **Youngwan Lee**, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
-   <span style="color:darkred">**Arxiv**</span> 2023 <br>
-    [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
 
 * ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
     **Youngwan Lee**, Jeffrey Ryan Willette, Jonghee Kim, Sung Ju Hwang <br>
