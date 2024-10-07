@@ -44,7 +44,8 @@ My research interest is how computers understand the world, including efficient 
     [[paper]](https://green-fomo.github.io/ECCV2024/static/papers/14.pdf)<br>
 
 * ## PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation <br>
-    Injoon Hwang, Haewon Park, **Youngwan Lee**, Jooyoung Yang, SunJae Maeng <br>
+    Injoon Hwang*, Haewon Park*, **Youngwan Lee\***, Jooyoung Yang, SunJae Maeng <br>
+   *:equal contribtion <br>
    Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2024  Workshop on [Transformers for Vision (T4V)](https://sites.google.com/view/t4v-cvpr24), <span style="color:purple">**Spotlight**</span> <br>
     [[paper]](https://arxiv.org/abs/2406.09117)<br>
 
