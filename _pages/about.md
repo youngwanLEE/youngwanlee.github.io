@@ -41,13 +41,18 @@ My research interest is how computers understand the world, including efficient 
 * ## DiT-Pruner: Pruning Diffusion Transformer Models for Text-to-Image Synthesis Using Human Preference Scores <br>
     **Youngwan Lee**, Yong-Ju Lee, Sung Ju Hwang <br>
     European Conference on Computer Vision (<span style="color:darkred">**ECCV**</span>) 2024  Workshop on [Green Foundation Models](https://green-fomo.github.io/ECCV2024/)   <br>
-    <!--[[paper]](https://arxiv.org/abs/2312.04005)<br> -->
+    [[paper]](https://green-fomo.github.io/ECCV2024/static/papers/14.pdf)<br>
+
+* ## PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation <br>
+    Injoon Hwang, Haewon Park, **Youngwan Lee**, Jooyoung Yang, SunJae Maeng <br>
+   Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2024  Workshop on [Transformers for Vision (T4V)](https://sites.google.com/view/t4v-cvpr24), <span style="color:purple">**Spotlight**</span> <br>
+    [[paper]](https://arxiv.org/abs/2406.09117)<br>
 
 * ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
     Sunil Hwang\*, Jaehong Yoon\* **Youngwan Lee\***, Sung Ju Hwang <br>
     *:equal contribtion <br>
    Internation Conference on Machine Learning (<span style="color:darkred">**ICML**</span>) 2024 <br>
-   CVPR 2024  Workshop on Transformers for Vision (T4V) (<span style="color:purple">**Spotlight**</span>) <br>
+   CVPR 2024  Workshop on [Transformers for Vision (T4V)](https://sites.google.com/view/t4v-cvpr24), <span style="color:purple">**Spotlight**</span> <br>
    [[paper]](https://arxiv.org/abs/2211.10636)
 
 * ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
