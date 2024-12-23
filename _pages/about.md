@@ -35,7 +35,7 @@ My research interest is how computers understand the world, including efficient 
 
 * ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
     **Youngwan Lee**, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
-   Conference on Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
+   Advances in Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
    CVPR 2024  Workshop on [Generative Models for Computer Vision](https://generative-vision.github.io/workshop-CVPR-24/) <br>
     [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
 
