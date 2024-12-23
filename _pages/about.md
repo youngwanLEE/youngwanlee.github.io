@@ -143,9 +143,9 @@ My research interest is how computers understand the world, including efficient 
       - International Journal on Computer Vision (IJCV)
 
    - Conference
-      - CVPR 2023 2024
+      - CVPR 2023 2024 2025
       - NeurIPS 2023 2024
-      - ICML 2023 2024
+      - ICML 2023 2024 2025
       - ICLR 2024 2025
       - ICCV 2023
       - ECCV 2024
