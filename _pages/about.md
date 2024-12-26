@@ -37,7 +37,7 @@ My research interest is how computers understand the world, including efficient 
     **Youngwan Lee**, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
    Advances in Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
    CVPR 2024  Workshop on [Generative Models for Computer Vision](https://generative-vision.github.io/workshop-CVPR-24/) <br>
-    [[Project page]](https://youngwanlee.github.io/KOALA/)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
+    [[Project page]](https://youngwanlee.github.io/KOALA/) / [[paper]](https://arxiv.org/abs/2312.04005) / [[OpenReview]](https://openreview.net/forum?id=KNDUBpWV9b&referrer=%5Bthe%20profile%20of%20Youngwan%20Lee%5D(%2Fprofile%3Fid%3D~Youngwan_Lee1)) / [[poster]](https://www.dropbox.com/scl/fi/pg5364swonj14h3yzdlce/poster_koala_final_2.pdf?rlkey=q15vao7myr1l8sgv2292ip5m2&st=hcqwggpb&dl=0) / [[code]](https://github.com/youngwanLEE/sdxl-koala) <br>
 
 * ## DiT-Pruner: Pruning Diffusion Transformer Models for Text-to-Image Synthesis Using Human Preference Scores <br>
     **Youngwan Lee**, Yong-Ju Lee, Sung Ju Hwang <br>
