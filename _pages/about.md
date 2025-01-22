@@ -26,6 +26,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎉 News
+- *2025.01*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 KOALA has been accepted at NeurIPS 2024. 
 - *2024.08*: &nbsp;🎉🎉 DiT-Pruner has been accepted at ECCVW 2024. 
 - *2024.05*: &nbsp;🎉🎉 EVEREST has been accepted at ICML 2024. 
@@ -35,6 +36,17 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)
+
+* ## A Training-Free Sub-quadratic Cost Transformer Model Serving Framework with Hierarchically Pruned Attention <br>
+   Heejun Lee\*, Geon Park\*, __Youngwan Lee\*__, Jaduk Suh\*, Jina Kim, Wonyong Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang <br>
+   *:equal contribtion <br>
+   Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2025  <br>
+   [[paper]](https://openreview.net/forum?id=PTcMzQgKmn) / [[code]](https://github.com/DeepAuto-AI/hip-attention)
+
+* ## Training Free Exponential Context Extension via Cascading KV Cache <br>
+   Jeffrey Willette, Heejun Lee, **Youngwan Lee**, Myeongjae Jeon, Sung Ju Hwang <br>
+   Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2025  <br>
+   [[paper]](https://openreview.net/forum?id=dSneEp59yX&noteId=cXYZDTrz2p)
 
 * ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
     **Youngwan Lee**, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang <br>
