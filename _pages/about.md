@@ -26,6 +26,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎉 News
+- *2025.02*: &nbsp;🎉🎉 VideICL has been accepted at CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 KOALA has been accepted at NeurIPS 2024. 
 - *2024.08*: &nbsp;🎉🎉 DiT-Pruner has been accepted at ECCVW 2024. 
@@ -36,6 +37,11 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)
+
+ * ## VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding <br>
+    Kangsan Kim, Geon Park, **Youngwan Lee**, Woongyeong Yeo, Sung Ju Hwang <br>
+    Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025  <br>
+    [[paper]](https://arxiv.org/abs/2412.02186) <br>
 
 * ## A Training-Free Sub-quadratic Cost Transformer Model Serving Framework with Hierarchically Pruned Attention <br>
    Heejun Lee\*, Geon Park\*, __Youngwan Lee\*__, Jaduk Suh\*, Jina Kim, Wonyong Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang <br>
