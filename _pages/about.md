@@ -164,12 +164,12 @@ I aspire to practice [Slow Science](http://slow-science.org/).
       - International Journal on Computer Vision (IJCV)
 
    - Conference
-      - CVPR 2023 2024 2025
-      - NeurIPS 2023 2024 2025
-      - ICML 2023 2024 2025
-      - ICLR 2024 2025
-      - ICCV 2023 2025
-      - ECCV 2024
-      - AAAI 2025
+      - IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023 2024 2025
+      - Neural Information Processing Systems (NeurIPS) 2023 2024 2025
+      - International Conference on Learning Representations (ICLR) 2024 2025
+      - International Conference on Machine Learning (ICML) 2023 2024 2025
+      - International Conference on Computer Vision (ICCV) 2023 2025
+      - European Conference on Computer Vision (ECCV) 2024
+      - Association for the Advancement of Artificial Intelligence (AAAI) 2025
       <!-- - ICIP 2023 -->
       <!-- - WACV 2021 2024 -->
