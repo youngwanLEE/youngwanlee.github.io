@@ -165,10 +165,10 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
    - Conference
       - CVPR 2023 2024 2025
-      - NeurIPS 2023 2024
+      - NeurIPS 2023 2024 2025
       - ICML 2023 2024 2025
       - ICLR 2024 2025
-      - ICCV 2023
+      - ICCV 2023 2025
       - ECCV 2024
       - AAAI 2025
       <!-- - ICIP 2023 -->
