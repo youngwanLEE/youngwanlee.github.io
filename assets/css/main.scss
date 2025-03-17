@@ -107,3 +107,15 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Make bold text more prominent */
+strong, b {
+  font-weight: 800 !important;  /* Increased from default 700 */
+  letter-spacing: 0.02em;       /* Slight letter spacing for better visibility */
+}
+
+/* Special emphasis for the name "Youngwan" */
+strong:contains("Youngwan"), b:contains("Youngwan") {
+  font-weight: 900 !important;  /* Even bolder for the name */
+  letter-spacing: 0.03em;       /* Slightly more letter spacing */
+}
