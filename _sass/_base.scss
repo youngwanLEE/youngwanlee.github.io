@@ -323,13 +323,13 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 /* Strong text styles */
 strong, b {
-  font-weight: 1100 !important;
+  font-weight: 2000 !important;
   letter-spacing: 0.02em;
 }
 
 /* Special emphasis for the name "Youngwan" */
 strong:contains("Youngwan"), b:contains("Youngwan") {
-  font-weight: 1100 !important;
+  font-weight: 2000 !important;
   letter-spacing: 0.04em;
   color: #000000;
 }
