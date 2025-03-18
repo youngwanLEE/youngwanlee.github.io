@@ -87,28 +87,28 @@ I aspire to practice [Slow Science](http://slow-science.org/).
     **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
     *:equal contribtion <br>
     Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2023  <br>
-    [[paper]](https://openreview.net/forum?id=7sn6Vxp92xV)[[poster]](https://www.dropbox.com/s/mqwdgckil89qh8e/rcmae_poster_final.pdf)[[slide]](https://docs.google.com/presentation/d/1OoN67hRpyQybe2QcwBX0h1Urq4g40zVrD9lX3AlQgPs/edit?usp=sharing)|[![](https://img.shields.io/github/stars/youngwanLEE/rc-mae?style=social&label=Code+Stars)](https://github.com/youngwanLEE/rc-mae) <br>
+    [[paper]](https://openreview.net/forum?id=7sn6Vxp92xV) / [[poster]](https://www.dropbox.com/s/mqwdgckil89qh8e/rcmae_poster_final.pdf) / [[slide]](https://docs.google.com/presentation/d/1OoN67hRpyQybe2QcwBX0h1Urq4g40zVrD9lX3AlQgPs/edit?usp=sharing) / [![](https://img.shields.io/github/stars/youngwanLEE/rc-mae?style=social&label=Code+Stars)](https://github.com/youngwanLEE/rc-mae) <br>
 
  * ## Sparse Token Transformer with Attention Back Tracking <br>
     Heejun Lee, Minki Kang, **Youngwan Lee**, Sung Ju Hwang <br>
     Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2023  <br>
-    [[paper]](https://openreview.net/forum?id=VV0hSE8AxCw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))[[poster]](https://www.dropbox.com/s/v15asq628iyt0x9/sparse_token_poster.pdf)[[slide]](https://docs.google.com/presentation/d/1BPplZugqLyhp2Posig0K62CeTn6DaiALx4D2g0PIt8U/edit#slide=id.p) <br>
+    [[paper]](https://openreview.net/forum?id=VV0hSE8AxCw&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) / [[poster]](https://www.dropbox.com/s/v15asq628iyt0x9/sparse_token_poster.pdf) / [[slide]](https://docs.google.com/presentation/d/1BPplZugqLyhp2Posig0K62CeTn6DaiALx4D2g0PIt8U/edit#slide=id.p) <br>
  
  
  * ## MPViT: Multi-Path Vision Transformer for Dense Prediction <br>
     **Youngwan Lee**, Jonghee Kim, Jeffrey Ryan Willette, Sung Ju Hwang <br>
     Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2022  <br>
-    [[paper]](https://arxiv.org/abs/2112.11010)[[poster]](https://www.dropbox.com/s/56tdh4fmxkm04u9/%5Bfinal%5D%5Bmpvit_poster%5D.pdf) [[slide]](https://www.dropbox.com/s/1jclnrdlex07yn6/mpvit_presentation.pdf)| [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
+    [[paper]](https://arxiv.org/abs/2112.11010) / [[poster]](https://www.dropbox.com/s/56tdh4fmxkm04u9/%5Bfinal%5D%5Bmpvit_poster%5D.pdf) / [[slide]](https://www.dropbox.com/s/1jclnrdlex07yn6/mpvit_presentation.pdf) / [![](https://img.shields.io/github/stars/youngwanLEE/MPViT?style=social&label=Code+Stars)](https://github.com/youngwanLEE/MPViT) <br>
 
  * ## Localization Uncertainty Estimation for Anchor-Free Object Detection <br>
     **Youngwan Lee**, Joong-Won Hwang, Hyung-Il Kim, Kimin Yun, YongJin Kwon, Yuseok Bae, Sung Ju Hwang <br>
     European Conference on Computer Vision Workshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io/) (<span style="color:darkred">**ECCVW**</span>) 2022  <br>
-    [[paper]](https://arxiv.org/abs/2006.15607)[[poster]](https://www.dropbox.com/s/rxwgveiy7l0isnh/poster.pdf)[[slide]](https://www.dropbox.com/s/ijp3nofi57jbhbr/uad_presentation.pdf)[![](https://img.shields.io/github/stars/youngwanLEE/UAD?style=social&label=Code+Stars)](https://github.com/youngwanLEE/UAD) <br>
+    [[paper]](https://arxiv.org/abs/2006.15607) / [[poster]](https://www.dropbox.com/s/rxwgveiy7l0isnh/poster.pdf) / [[slide]](https://www.dropbox.com/s/ijp3nofi57jbhbr/uad_presentation.pdf) / [![](https://img.shields.io/github/stars/youngwanLEE/UAD?style=social&label=Code+Stars)](https://github.com/youngwanLEE/UAD) <br>
     
  * ## Diverse Temporal Aggregation and Depthwise Spatiotemporal Factorization for Efficient Video Classification <br>
     **Youngwan Lee**, Hyung-Il Kim, Kimin Yun, Jinyoung Moon <br>
     IEEE Access 2021  <br>
-    [[paper]](https://arxiv.org/abs/2012.00317) | [![](https://img.shields.io/github/stars/youngwanLEE/VoV3D?style=social&label=Code+Stars)](https://github.com/youngwanLEE/VoV3D) <br>
+    [[paper]](https://arxiv.org/abs/2012.00317) / [![](https://img.shields.io/github/stars/youngwanLEE/VoV3D?style=social&label=Code+Stars)](https://github.com/youngwanLEE/VoV3D) <br>
 
  * ## Adversarial training with stochastic weight average <br>
     Joong-Won Hwang, **Youngwan Lee**, Seongchan Oh, Yuseok Bae<br>
@@ -123,13 +123,13 @@ I aspire to practice [Slow Science](http://slow-science.org/).
  * ## CenterMask: Real-Time Anchor-Free Instance Segmentation <br>
     **Youngwan Lee**, Jongyoul Park <br>
     Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2020 <br>
-    [[paper]](https://arxiv.org/abs/1911.06667) | [![](https://img.shields.io/github/stars/youngwanLEE/CenterMask?style=social&label=Code1+Stars)](https://github.com/youngwanLEE/CenterMask)[![](https://img.shields.io/github/stars/youngwanLEE/centermask2?style=social&label=detectron2+Stars)](https://github.com/youngwanLEE/centermask2) <br>
+    [[paper]](https://arxiv.org/abs/1911.06667) / [![](https://img.shields.io/github/stars/youngwanLEE/CenterMask?style=social&label=Code1+Stars)](https://github.com/youngwanLEE/CenterMask)[![](https://img.shields.io/github/stars/youngwanLEE/centermask2?style=social&label=detectron2+Stars)](https://github.com/youngwanLEE/centermask2) <br>
 
  * ## An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection <br>
     **Youngwan Lee**\*, Joong-Won Hwang\*, Sangrok Lee, Yuseok Bae, Jongyoul Park <br>
     *:equal contribtion <br>
     Computer Vision and Pattern Recognition Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision (<span style="color:darkred">**CVPRW**</span>) 2019  <br>
-    [[paper]](https://arxiv.org/abs/1904.09730)[[timm]](https://huggingface.co/docs/timm/models/ese-vovnet)| [![](https://img.shields.io/github/stars/youngwanLEE/vovnet-detectron2?style=social&label=Code+Stars)](https://github.com/youngwanLEE/vovnet-detectron2) <br>
+    [[paper]](https://arxiv.org/abs/1904.09730) / [[timm]](https://huggingface.co/docs/timm/models/ese-vovnet) / [![](https://img.shields.io/github/stars/youngwanLEE/vovnet-detectron2?style=social&label=Code+Stars)](https://github.com/youngwanLEE/vovnet-detectron2) <br>
 
 
 # 🎖 Honors and Awards
