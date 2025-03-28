@@ -41,7 +41,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
  * ## VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding <br>
     Kangsan Kim, Geon Park, **Youngwan Lee**, Woongyeong Yeo, Sung Ju Hwang <br>
     Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2025  <br>
-    [[paper]](https://arxiv.org/abs/2412.02186) <br>
+    [[paper]](https://arxiv.org/abs/2412.02186) / [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 
 * ## A Training-Free Sub-quadratic Cost Transformer Model Serving Framework with Hierarchically Pruned Attention <br>
    Heejun Lee\*, Geon Park\*, __Youngwan Lee\*__, Jaduk Suh\*, Jina Kim, Wonyong Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang <br>
