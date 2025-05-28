@@ -78,6 +78,12 @@ I aspire to practice [Slow Science](http://slow-science.org/).
    CVPR 2024  Workshop on [Transformers for Vision (T4V)](https://sites.google.com/view/t4v-cvpr24), <span style="color:purple">**Spotlight**</span> <br>
    [[paper]](https://arxiv.org/abs/2211.10636)
 
+* ## Dynamic and Super-Personalized Media Ecosystem Driven by Generative AI: Unpredictable Plays Never Repeating the Same <br>
+    Sungjun Ahn, Hyun-Jeong Yim, **Youngwan Lee**, Sung-Ik Park <br>
+   IEEE Transactions on Broadcasting 2024 <br>
+   [[paper]](https://ieeexplore.ieee.org/abstract/document/10506327)
+
+
 * ## Visualizing the loss landscape of Self-supervised Vision Transformer  <br>
     **Youngwan Lee**, Jeffrey Ryan Willette, Jonghee Kim, Sung Ju Hwang <br>
    Conference on Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2023  Workshop on [Self-Supervised Learning - Theory and Practice](https://sslneurips23.github.io/index.html)   <br>
