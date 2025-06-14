@@ -1,0 +1,75 @@
+name: Update Google Scholar Citations
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Run every Sunday at midnight
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-citations:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 lxml
+        
+    - name: Update citation count
+      run: |
+        python << 'EOF'
+        import requests
+        from bs4 import BeautifulSoup
+        import json
+        import re
+        
+        # Your Google Scholar profile URL
+        url = "https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl=en"
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        
+        try:
+            response = requests.get(url, headers=headers)
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Find citation count
+            citation_element = soup.find('td', class_='gsc_rsb_std')
+            if citation_element:
+                citations = citation_element.text.strip()
+                
+                # Create JSON data for shields.io
+                data = {
+                    "schemaVersion": 1,
+                    "label": "citations",
+                    "message": citations,
+                    "color": "9cf"
+                }
+                
+                # Write to JSON file
+                with open('google-scholar-stats/gs_data_shieldsio.json', 'w') as f:
+                    json.dump(data, f, indent=2)
+                    
+                print(f"Updated citations to: {citations}")
+            else:
+                print("Could not find citation count")
+                
+        except Exception as e:
+            print(f"Error: {e}")
+        EOF
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add google-scholar-stats/gs_data_shieldsio.json
+        git diff --staged --quiet || git commit -m "Update Google Scholar citations"
+        git push 
