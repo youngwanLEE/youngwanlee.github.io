@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .co {
-  color: #666666;
+  color: #888888;
 }
 </style>
 
@@ -56,35 +56,35 @@ I aspire to practice [Slow Science](http://slow-science.org/).
     [[paper]](https://arxiv.org/abs/2412.02186) / [[poster]](https://www.dropbox.com/scl/fi/y8k2ibj7gptq1cnrmyc67/videoicl_cvpr25_poster.pdf?rlkey=gh8h20f9xgjhh24wqqijiwc8l&st=2eajus6r&dl=0) / [[code]](https://github.com/KangsanKim07/VideoICL) <br>
 
 * ## A Training-Free Sub-quadratic Cost Transformer Model Serving Framework with Hierarchically Pruned Attention <br>
-       <span class="co">Heejun Lee\*, Geon Park\*,</span> __Youngwan Lee\*__, <span class="co">Jaduk Suh\*, Jina Kim, Wonyong Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang</span> <br>
-   *:equal contribtion <br>
-   Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2025  <br>
-   [[paper]](https://openreview.net/forum?id=PTcMzQgKmn) / [[code]](https://github.com/DeepAuto-AI/hip-attention)
+    <span class="co">Heejun Lee\*, Geon Park\*,</span> **Youngwan Lee**\*, <span class="co">Jaduk Suh\*, Jina Kim, Wonyong Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang</span> <br>
+    *:equal contribtion <br>
+    Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2025  <br>
+    [[paper]](https://openreview.net/forum?id=PTcMzQgKmn) / [[code]](https://github.com/DeepAuto-AI/hip-attention)
 
 * ## Training Free Exponential Context Extension via Cascading KV Cache <br>
-       <span class="co">Jeffrey Willette, Heejun Lee,</span> **Youngwan Lee**, <span class="co">Myeongjae Jeon, Sung Ju Hwang</span> <br>
-   Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2025  <br>
-   [[paper]](https://openreview.net/forum?id=dSneEp59yX&noteId=cXYZDTrz2p)
+    <span class="co">Jeffrey Willette, Heejun Lee,</span> **Youngwan Lee**, <span class="co">Myeongjae Jeon, Sung Ju Hwang</span> <br>
+    Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2025  <br>
+    [[paper]](https://openreview.net/forum?id=dSneEp59yX&noteId=cXYZDTrz2p)
 
 * ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
-    **Youngwan Lee**, <span style="color:#666666">Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang</span> <br>
+    **Youngwan Lee**, <span class="co">Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang</span> <br>
    Advances in Neural Information Processing Systems (<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
    CVPR 2024  Workshop on [Generative Models for Computer Vision](https://generative-vision.github.io/workshop-CVPR-24/) <br>
     [[Project page]](https://youngwanlee.github.io/KOALA/) / [[paper]](https://arxiv.org/abs/2312.04005) / [[OpenReview]](https://openreview.net/forum?id=KNDUBpWV9b&referrer=%5Bthe%20profile%20of%20Youngwan%20Lee%5D(%2Fprofile%3Fid%3D~Youngwan_Lee1)) / [[poster]](https://www.dropbox.com/scl/fi/pg5364swonj14h3yzdlce/poster_koala_final_2.pdf?rlkey=q15vao7myr1l8sgv2292ip5m2&st=hcqwggpb&dl=0) / [[code]](https://github.com/youngwanLEE/sdxl-koala) <br>
 
 * ## DiT-Pruner: Pruning Diffusion Transformer Models for Text-to-Image Synthesis Using Human Preference Scores <br>
-    **Youngwan Lee**, <span style="color:#666666">Yong-Ju Lee, Sung Ju Hwang</span> <br>
+    **Youngwan Lee**, <span class="co">Yong-Ju Lee, Sung Ju Hwang</span> <br>
     European Conference on Computer Vision (<span style="color:darkred">**ECCV**</span>) 2024  Workshop on [Green Foundation Models](https://green-fomo.github.io/ECCV2024/)   <br>
     [[paper]](https://green-fomo.github.io/ECCV2024/static/papers/14.pdf)<br>
 
 * ## PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation <br>
-    Injoon Hwang\*, Haewon Park\*, **Youngwan Lee\***, Jooyoung Yang, SunJae Maeng <br>
+    <span class="co">Injoon Hwang\*, Haewon Park\*,</span> **Youngwan Lee\***, <span class="co">Jooyoung Yang, SunJae Maeng<\span> <br>
    *:equal contribtion <br>
    Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) 2024  Workshop on [Transformers for Vision (T4V)](https://sites.google.com/view/t4v-cvpr24), <span style="color:purple">**Spotlight**</span> <br>
     [[paper]](https://arxiv.org/abs/2406.09117)<br>
 
 * ## EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens <br>
-    <span style="color:#666666">Sunil Hwang\*, Jaehong Yoon\*</span> **Youngwan Lee\***, <span style="color:#666666">Sung Ju Hwang</span> <br>
+    <span class="co">Sunil Hwang\*, Jaehong Yoon\*</span> **Youngwan Lee\***, <span class="co">Sung Ju Hwang</span> <br>
     *:equal contribtion <br>
    Internation Conference on Machine Learning (<span style="color:darkred">**ICML**</span>) 2024 <br>
    CVPR 2024  Workshop on [Transformers for Vision (T4V)](https://sites.google.com/view/t4v-cvpr24), <span style="color:purple">**Spotlight**</span> <br>
@@ -102,7 +102,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
     [[paper]](https://arxiv.org/abs/2405.18042)<br>
 
 * ## Exploring the Role of Mean Teachers in Self-supervised Masked Auto-Encoders <br>
-    **Youngwan Lee**\*, Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang <br>
+    **Youngwan Lee**\*, <span class="co">Jeffrey Ryan Willette\*, Jonghee Kim, Juho Lee, Sung Ju Hwang</span> <br>
     *:equal contribtion <br>
     Internation Conference on Learning Representation (<span style="color:darkred">**ICLR**</span>) 2023  <br>
     [[paper]](https://openreview.net/forum?id=7sn6Vxp92xV) / [[poster]](https://www.dropbox.com/s/mqwdgckil89qh8e/rcmae_poster_final.pdf) / [[slide]](https://docs.google.com/presentation/d/1OoN67hRpyQybe2QcwBX0h1Urq4g40zVrD9lX3AlQgPs/edit?usp=sharing) / [![](https://img.shields.io/github/stars/youngwanLEE/rc-mae?style=social&label=Code+Stars)](https://github.com/youngwanLEE/rc-mae) <br>
