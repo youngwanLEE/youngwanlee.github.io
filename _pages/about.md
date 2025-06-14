@@ -36,7 +36,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 - *2022.02*: &nbsp;🎉🎉 One paper has been accepted at CVPR 2022. 
 
 # 📚 Publications 
-[Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl) <a href='https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+[Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl) <a href='https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 * ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
     **Youngwan Lee**, Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang <br>
