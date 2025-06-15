@@ -1,0 +1,22 @@
+body {
+  /* Previous font setting */
+  /* font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important; */
+  
+  /* Current font setting */
+  font-family: Georgia, serif !important;
+} 
+
+/* Make bold text more prominent */
+strong, b {
+  font-weight: 900 !important;  /* Increased from 800 to 900 for all bold text */
+  letter-spacing: 0.03em;       /* Increased letter spacing */
+  text-shadow: 0.5px 0.5px 0.5px rgba(0,0,0,0.1);  /* Subtle text shadow for depth */
+}
+
+/* Special emphasis for the name "Youngwan" */
+strong:contains("Youngwan"), b:contains("Youngwan") {
+  font-weight: 950 !important;  /* Even bolder for the name */
+  letter-spacing: 0.05em;       /* More letter spacing */
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.15);  /* Slightly stronger text shadow */
+  color: #000000;  /* Ensure pure black color */
+} 

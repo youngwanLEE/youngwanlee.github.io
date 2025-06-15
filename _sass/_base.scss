@@ -12,7 +12,7 @@ body {
   padding: 0;
   padding-bottom: 0em;
   color: $text-color;
-  font-family: $global-font-family;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -24,7 +24,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
+  font-family: Georgia, serif;
   font-weight: bold;
 }
 
@@ -319,4 +319,17 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+/* Strong text styles */
+strong, b {
+  font-weight: 2000 !important;
+  letter-spacing: 0.02em;
+}
+
+/* Special emphasis for the name "Youngwan" */
+strong:contains("Youngwan"), b:contains("Youngwan") {
+  font-weight: 2000 !important;
+  letter-spacing: 0.04em;
+  color: #000000;
 }
