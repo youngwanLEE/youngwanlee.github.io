@@ -1,0 +1,49 @@
+name: Manual Citation Update
+
+on:
+  workflow_dispatch:
+    inputs:
+      citation_count:
+        description: 'Current citation count from Google Scholar'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  manual-update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Update citation count manually
+      run: |
+        citation_count="${{ github.event.inputs.citation_count }}"
+        echo "Updating citation count to: $citation_count"
+        
+        # Create the JSON data
+        cat > google-scholar-stats/gs_data_shieldsio.json << EOF
+        {"schemaVersion": 1, "label": "citations", "message": "$citation_count"}
+        EOF
+        
+        echo "Citation data updated successfully"
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add google-scholar-stats/gs_data_shieldsio.json
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Manual update: Google Scholar citations to ${{ github.event.inputs.citation_count }} [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push
+          echo "Changes committed and pushed successfully"
+        fi

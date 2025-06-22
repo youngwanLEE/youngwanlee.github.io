@@ -2,7 +2,12 @@ name: Update Google Scholar Citations
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run every day at midnight
+    # Reduced frequency to avoid bot detection
+    # Try different times when GitHub Actions traffic is lower
+    - cron: '0 2 * * 1'    # Monday 2 AM UTC (weekly)
+    - cron: '0 14 * * 4'   # Thursday 2 PM UTC (backup attempt)
+    # Alternative: Monthly update
+    # - cron: '0 0 1 * *'  # First day of every month
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
@@ -11,8 +16,10 @@ permissions:
 
 jobs:
   update-citations:
-    runs-on: ubuntu-latest
-    timeout-minutes: 12  # Reduced timeout to match script changes
+    # Use self-hosted runner to avoid IP blocking
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest  # Fallback to GitHub-hosted
+    timeout-minutes: 8  # Further reduced timeout
     
     steps:
     - name: Checkout repository
@@ -54,8 +61,10 @@ jobs:
         if [ -f "google_scholar_crawler/results/gs_data_shieldsio.json" ]; then
           cp google_scholar_crawler/results/gs_data_shieldsio.json google-scholar-stats/gs_data_shieldsio.json
           echo "New citation data copied successfully"
+          echo "CITATION_UPDATED=true" >> $GITHUB_ENV
         else
           echo "No new data available, keeping existing data"
+          echo "CITATION_UPDATED=false" >> $GITHUB_ENV
         fi
         
     - name: Commit and push changes
@@ -65,6 +74,9 @@ jobs:
         git add google-scholar-stats/gs_data_shieldsio.json
         if git diff --staged --quiet; then
           echo "No changes to commit"
+          if [ "$CITATION_UPDATED" = "true" ]; then
+            echo "Warning: Citation was updated but no git changes detected"
+          fi
         else
           git commit -m "Update Google Scholar citations [$(date +'%Y-%m-%d %H:%M:%S')]"
           git push 
