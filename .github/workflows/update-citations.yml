@@ -34,10 +34,20 @@ jobs:
         
     - name: Update citation count
       env:
-        GOOGLE_SCHOLAR_ID: EqemKYsAAAAJ
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID || 'EqemKYsAAAAJ' }}
       run: |
         cd google_scholar_crawler
-        timeout 8m python main.py || echo "Crawling failed - keeping existing data"
+        echo "Starting Google Scholar crawling..."
+        python main.py
+        exit_code=$?
+        if [ $exit_code -eq 0 ]; then
+          echo "Crawling completed successfully"
+        else
+          echo "Crawling failed with exit code: $exit_code"
+          echo "This may be due to Google Scholar anti-bot measures"
+          echo "Keeping existing citation data"
+        fi
+      continue-on-error: true
         
     - name: Copy results to google-scholar-stats
       run: |

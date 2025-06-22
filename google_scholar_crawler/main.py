@@ -41,6 +41,7 @@ def fetch_citation_data_with_retry(author_id, max_retries=3):
         try:
             print(f"Fetching data (attempt {attempt + 1}/{max_retries})...")
             print(f"Searching for Google Scholar ID: {author_id}")
+            print(f"Current time: {datetime.now()}")
             
             # Add random delay before each attempt
             if attempt > 0:
@@ -129,6 +130,17 @@ try:
     
     print("Citation update completed successfully!")
     print(f"Final citation count: {citations}")
+    
+    # Verify files were created
+    if os.path.exists('results/gs_data_shieldsio.json'):
+        print("✓ Shield.io data file created successfully")
+    else:
+        print("✗ Failed to create shield.io data file")
+        
+    if os.path.exists('results/gs_data.json'):
+        print("✓ Full data file created successfully")
+    else:
+        print("✗ Failed to create full data file")
     
 except TimeoutError as e:
     print(f"Timeout error: {e}")
