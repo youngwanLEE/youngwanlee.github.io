@@ -32,7 +32,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎉 News
-- *2025.02*: &nbsp;🎉🎉 VideICL has been accepted at CVPR 2025. 
+- *2025.02*: &nbsp;🎉🎉 VideoICL has been accepted at CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 KOALA has been accepted at NeurIPS 2024. 
 - *2024.08*: &nbsp;🎉🎉 DiT-Pruner has been accepted at ECCVW 2024. 
