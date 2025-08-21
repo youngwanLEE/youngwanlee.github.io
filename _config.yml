@@ -9,7 +9,7 @@
 title                    : "Youngwan Lee"
 description              : "Senior researcher at ETRI & Ph.D student at KAIST"
 repository               : "youngwanLee/youngwanlee.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
