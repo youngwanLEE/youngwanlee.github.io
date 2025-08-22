@@ -151,12 +151,12 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎖 Honors and Awards
-- *2025.04* Best Researcher Award, ETRI
-- *2025.04* Best Lecturer Award, ETRI
+- *2025.04* Distinguished Researcher Award, ETRI
+- *2025.04* Distinguished Lecturer Award, ETRI
 - *2024.04* Best Paper Award, ETRI 
 <!-- - *2022.12* Ministerial Citation (장관표창)<sub>[[certificate](https://www.dropbox.com/scl/fi/2xtwnb1d3x4xz9arbak0p/_.png?rlkey=xlhcjsqsbnl06r7mtj0b19r36&dl=0)]</sub>, Minister of Science and ICT, South Korea -->
 - *2022.12* Ministerial Citation ([장관표창](https://www.dropbox.com/scl/fi/2xtwnb1d3x4xz9arbak0p/_.png?rlkey=xlhcjsqsbnl06r7mtj0b19r36&dl=0)), Minister of Science and ICT, South Korea
-- *2022.04* Best Lecturer Award, ETRI 
+- *2022.04* Distinguished Lecturer Award, ETRI 
 - *2022.04* Best Paper Award, ETRI 
 - *2017.06* 2nd rank in ImageNet Challenge (Detection task, Team [DeepView](https://image-net.org/challenges/LSVRC/2017/results)) 
 
