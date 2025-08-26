@@ -32,7 +32,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎉 News
-- *2025.02*: &nbsp;🎉🎉 VideICL has been accepted at CVPR 2025. 
+- *2025.02*: &nbsp;🎉🎉 VideoICL has been accepted at CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 KOALA has been accepted at NeurIPS 2024. 
 - *2024.08*: &nbsp;🎉🎉 DiT-Pruner has been accepted at ECCVW 2024. 
@@ -42,7 +42,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 - *2022.02*: &nbsp;🎉🎉 One paper has been accepted at CVPR 2022. 
 
 # 📚 Publications 
-[Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl) <a href='https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/youngwanLEE/youngwanlee.github.io/main/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+[Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)
 
 * ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
     **Youngwan Lee**, <span class="co">Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang</span> <br>
@@ -151,14 +151,14 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎖 Honors and Awards
-- *2025.04* Best Researcher Award, ETRI
-- *2025.04* Best Lecturer Award, ETRI
+- *2025.04* Distinguished Researcher Award, ETRI
+- *2025.04* Distinguished Lecturer Award, ETRI
 - *2024.04* Best Paper Award, ETRI 
 <!-- - *2022.12* Ministerial Citation (장관표창)<sub>[[certificate](https://www.dropbox.com/scl/fi/2xtwnb1d3x4xz9arbak0p/_.png?rlkey=xlhcjsqsbnl06r7mtj0b19r36&dl=0)]</sub>, Minister of Science and ICT, South Korea -->
 - *2022.12* Ministerial Citation ([장관표창](https://www.dropbox.com/scl/fi/2xtwnb1d3x4xz9arbak0p/_.png?rlkey=xlhcjsqsbnl06r7mtj0b19r36&dl=0)), Minister of Science and ICT, South Korea
-- *2022.04* Best Lecturer Award, ETRI 
+- *2022.04* Distinguished Lecturer Award, ETRI 
 - *2022.04* Best Paper Award, ETRI 
-- *2017.06* 2nd rank in ImageNet Challenge (Detection task, Team [DeepView](https://image-net.org/challenges/LSVRC/2017/results)) 
+- *2017.06* _2nd_ place in ImageNet Challenge (Detection task, Team [DeepView](https://image-net.org/challenges/LSVRC/2017/results)) 
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
