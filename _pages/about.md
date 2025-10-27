@@ -44,7 +44,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl)
 
-* ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
+* ## HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model <br>
     **Youngwan Lee**, <span class="co">Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang</span> <br>
     <span style="color:darkred">**Arxiv**</span> 2025 <br>
    [[Project page]](https://youngwanlee.github.io/holisafe/) / [[paper]](https://www.arxiv.org/pdf/2506.04704) / [[code]](https://github.com/youngwanLEE/holisafe)
