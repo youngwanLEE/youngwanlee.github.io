@@ -32,6 +32,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎉 News
+- *2026.02*: &nbsp;🎉🎉 Holisafe has been accepted at CVPR Findings 2026. 
 - *2025.02*: &nbsp;🎉🎉 VideoICL has been accepted at CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 KOALA has been accepted at NeurIPS 2024. 
@@ -46,7 +47,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 * ## HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model <br>
     **Youngwan Lee**, <span class="co">Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang</span> <br>
-    <span style="color:darkred">**Arxiv**</span> 2025 <br>
+    Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) Findings 2026 <br>
    [[Project page]](https://youngwanlee.github.io/holisafe/) / [[paper]](https://www.arxiv.org/pdf/2506.04704) / [[code]](https://github.com/youngwanLEE/holisafe)
 
 
