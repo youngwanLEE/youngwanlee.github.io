@@ -152,14 +152,14 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎖 Honors and Awards
-- *2025.04* Distinguished Researcher Award, ETRI
-- *2025.04* Distinguished Lecturer Award, ETRI
-- *2024.04* Best Paper Award, ETRI 
+- *2025.04.* Distinguished Researcher Award, ETRI
+- *2025.04.* Distinguished Lecturer Award, ETRI
+- *2024.04.* Best Paper Award, ETRI 
 <!-- - *2022.12* Ministerial Citation (장관표창)<sub>[[certificate](https://www.dropbox.com/scl/fi/2xtwnb1d3x4xz9arbak0p/_.png?rlkey=xlhcjsqsbnl06r7mtj0b19r36&dl=0)]</sub>, Minister of Science and ICT, South Korea -->
-- *2022.12* Ministerial Citation ([장관표창](https://www.dropbox.com/scl/fi/2xtwnb1d3x4xz9arbak0p/_.png?rlkey=xlhcjsqsbnl06r7mtj0b19r36&dl=0)), Minister of Science and ICT, South Korea
-- *2022.04* Distinguished Lecturer Award, ETRI 
-- *2022.04* Best Paper Award, ETRI 
-- *2017.06* _2nd_ place in ImageNet Challenge (Detection task, Team [DeepView](https://image-net.org/challenges/LSVRC/2017/results)) 
+- *2022.12.* Ministerial Citation ([장관표창](https://www.dropbox.com/scl/fi/2xtwnb1d3x4xz9arbak0p/_.png?rlkey=xlhcjsqsbnl06r7mtj0b19r36&dl=0)), Minister of Science and ICT, South Korea
+- *2022.04.* Distinguished Lecturer Award, ETRI 
+- *2022.04.* Best Paper Award, ETRI 
+- *2017.06.* **_2nd_ place** in ImageNet Challenge (Detection task, Team [DeepView](https://image-net.org/challenges/LSVRC/2017/results)) 
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -185,12 +185,12 @@ I aspire to practice [Slow Science](http://slow-science.org/).
       - International Journal on Computer Vision (IJCV)
 
    - Conference
-      - IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023 2024 2025
-      - Neural Information Processing Systems (NeurIPS) 2023 2024 2025
-      - International Conference on Learning Representations (ICLR) 2024 2025
-      - International Conference on Machine Learning (ICML) 2023 2024 2025
-      - International Conference on Computer Vision (ICCV) 2023 2025
-      - European Conference on Computer Vision (ECCV) 2024
-      - Association for the Advancement of Artificial Intelligence (AAAI) 2025
+      - IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 
+      - Neural Information Processing Systems (NeurIPS)
+      - International Conference on Learning Representations (ICLR) 
+      - International Conference on Machine Learning (ICML) 
+      - International Conference on Computer Vision (ICCV) 
+      - European Conference on Computer Vision (ECCV) 
+      - Association for the Advancement of Artificial Intelligence (AAAI)
       <!-- - ICIP 2023 -->
       <!-- - WACV 2021 2024 -->
