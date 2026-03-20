@@ -51,6 +51,12 @@ I aspire to practice [Slow Science](http://slow-science.org/).
     <span style="color:darkred">**Arxiv**</span> 2026 <br>
    [[Project page]](https://youngwanlee.github.io/multihopspatial/) / [[paper]](https://arxiv.org/abs/2603.18892) / [[Dataset]](https://huggingface.co/datasets/etri-vilab/MultihopSpatial) / [[Model]](https://huggingface.co/etri-vilab/MultiHopSpatial-Qwen3-VL-4B-Instruct) / [[code]](https://github.com/youngwanLEE/multihopspatial)
 
+* ## MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents<br>
+   <span class="co">Kangsan Kim, Yanlai Yang, Suji Kim, Woongyeong Yeo,</span> **Youngwan Lee**, <span class="co">Mengye Ren, Sung Ju Hwang</span> <br>
+   <span style="color:darkred">**Arxiv**</span> 2026 <br>
+   [[project page]](https://ma-egoqa.github.io/) / [[paper]](https://arxiv.org/abs/2603.09827) / [[Dataset]](https://huggingface.co/datasets/KangsanKim71/MA-EgoQA) / [[code]](https://github.com/KangsanKim07/MA-EgoQA) <br>
+
+
 * ## HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model <br>
     **Youngwan Lee**, <span class="co">Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang</span> <br>
     Computer Vision and Pattern Recognition (<span style="color:darkred">**CVPR**</span>) Findings 2026 <br>
