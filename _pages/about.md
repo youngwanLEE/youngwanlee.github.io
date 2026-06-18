@@ -32,6 +32,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 
 
 # 🎉 News
+- *2026.06*: &nbsp;🎉🎉 MultihopSpatial has been accepted at ECCV 2026. 
 - *2026.02*: &nbsp;🎉🎉 Holisafe has been accepted at CVPR Findings 2026. 
 - *2025.02*: &nbsp;🎉🎉 VideoICL has been accepted at CVPR 2025. 
 - *2025.01*: &nbsp;🎉🎉 Two papers have been accepted at ICLR 2025. 
@@ -48,7 +49,7 @@ I aspire to practice [Slow Science](http://slow-science.org/).
 * ## MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model <br>
     **Youngwan Lee\***, <span class="co"> Sujin Jang\*, Yoorhim Cho, Seunghwan Lee, Yong-Ju Lee, Sung Ju Hwang</span> <br>
     *:equal contribtion <br>
-    <span style="color:darkred">**Arxiv**</span> 2026 <br>
+        European Conference on Computer Vision (<span style="color:darkred">**ECCV**</span>) 2026 <br>
    [[Project page]](https://youngwanlee.github.io/multihopspatial/) / [[paper]](https://arxiv.org/abs/2603.18892) / [[Dataset]](https://huggingface.co/datasets/etri-vilab/MultihopSpatial) / [[Model]](https://huggingface.co/etri-vilab/MultiHopSpatial-Qwen3-VL-4B-Instruct) / [[code]](https://github.com/youngwanLEE/multihopspatial)
 
 * ## MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents<br>
